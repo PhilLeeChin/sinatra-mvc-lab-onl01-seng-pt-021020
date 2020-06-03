@@ -1,8 +1,8 @@
 class PigLatinizer
   attr_reader :piglatinize
 
-  # def initialize(piglatinize)
-  #   @piglatinize = piglatinize
-  # end
+  def piglatinize()
+
+  end
 
 end
