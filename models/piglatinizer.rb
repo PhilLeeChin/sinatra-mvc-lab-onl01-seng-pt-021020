@@ -1,3 +1,3 @@
 class PigLatinizer
-  att_reader :piglatinize
+  attr_reader :piglatinize
 end
